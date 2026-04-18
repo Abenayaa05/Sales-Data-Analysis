@@ -10,3 +10,6 @@ Day 1: Dataset Collection
 * Uploaded raw dataset for analysis
 * Next step: Data cleaning and preprocessing
 
+Day 2: Data Cleaning
+* Collected a global superstore sales dataset
+* Uploaded raw dataset for analysis
